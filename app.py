@@ -90,7 +90,8 @@ def main():
             st.markdown("---")
             st.markdown("🔄 Lanjutkan prediksi sentimen:")
             st.markdown(
-                '[Klik di sini untuk buka aplikasi prediksi sentimen aspek petugas](https://sentimen-petugas-r98m5rbyar8d3tkrbwpxmj.streamlit.app)',
+                '[Klik di sini untuk buka aplikasi prediksi sentimen aspek petugas](https://sentimen-petugas-r98m5rbyar8d3tkrbwpxmj.streamlit.app
+)',
                 unsafe_allow_html=True
             )
         else:
